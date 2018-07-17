@@ -18,7 +18,7 @@ apply plugin: 'maven'
 apply plugin: 'com.jfrog.bintray'
 
 compileKotlin2Js {
-    kotlinOptions.outputFile = "${projectDir}/generated/hello.js"
+    kotlinOptions.outputFile = "${projectDir}/generated/${artifact}.js"
 }
 
 repositories {
