@@ -32,6 +32,10 @@ Modify version before publishing
 Publish
 -------
 
+```
+./gradlew compileKotlin2Js
+```
+
 to maven local:
 
 ```
