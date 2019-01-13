@@ -41,7 +41,7 @@ to maven local:
 to bintray:
 
 ```
-./gradlew bintrayPublish
+./gradlew bintrayUpload
 ```
 
 to npm:
