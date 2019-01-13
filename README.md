@@ -1,6 +1,18 @@
 Kotlin JS Publish Demo
 ======================
 
+这个例子没有完成，以下命令报错：
+
+```
+cd generated
+npm install
+npm run start
+```
+
+其它的也没有好好检查。等再用到kotlin-js的时候，再来完善这个demo。
+
+---
+
 Kotlin-Js project, also publish to jcenter/bintray and npm.
 
 Modify names when copy this project
@@ -61,5 +73,4 @@ Also npm:
 ```
 npm install --save kotlin-js-publish-demo
 ```
-
 

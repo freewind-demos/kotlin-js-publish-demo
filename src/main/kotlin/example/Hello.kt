@@ -4,5 +4,5 @@ fun main(args: Array<String>) {
     console.log(hello("Kotlin JS"))
 }
 
-fun hello(name:String) = "Hello, $name!"
+fun hello(name: String) = "Hello, $name!"
 
